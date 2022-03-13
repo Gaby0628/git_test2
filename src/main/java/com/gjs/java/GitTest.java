@@ -7,5 +7,6 @@ package com.gjs.java;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("first git commit");
+        System.out.println("second git commit");
     }
 }
